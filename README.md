@@ -6,7 +6,7 @@
 *  ℹ️ Event page: https://www.meetup.com/pyladiesdublin/events/296639107/
 
 # Announcements
-* Coming soon
+* https://docs.google.com/presentation/d/e/2PACX-1vT7BF3fZw79-P2eZkX1_Z0paV-coq6uoMRSReg2as5qe1eguxNdpSGnNXycF4GSuG309ETn8-GIbo-g/pub?start=false&loop=false&delayms=3000
 
 # Event Details
 ## [TALK] Pinkie Pacts - Consumer Based Contract Testing with Kristian Scholze 
