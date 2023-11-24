@@ -20,6 +20,8 @@ We'll dive into the reasons why we think we need integration tests and if there 
 ### About Kristian Scholze
 Professional Rubber Ducky; Software engineer by heart. Automation aficionado. Bug extinguisher extraordinaire.
 
+* https://www.linkedin.com/in/kristian-scholze/
+
 ## [WORKSHOP] An Introduction to Risk Modelling in Reinsurance, with Python with Rithika Adiga & Arielle Jocktane
 
 ### Description
